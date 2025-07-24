@@ -30,7 +30,9 @@
   <a href="https://www.linkedin.com/in/grzegorz-kądziołka-18508430a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="https://www.facebook.com/people/OXEMO/61574923542263" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Gkkf&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
@@ -45,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gkkf/Gkkf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Gkkf/Gkkf/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
