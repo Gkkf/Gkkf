@@ -37,11 +37,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gkkf&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Gkkf&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Gkkf&theme=dracula&column=-1&row=2&margin-w=12&margin-h=12&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Gkkf/Gkkf/output/snake.svg" alt="Snake animation" />
 
