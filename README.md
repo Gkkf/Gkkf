@@ -56,6 +56,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gkkf&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <br clear="both"><br clear="both">
   <img src="https://github-profile-trophy.vercel.app?username=Gkkf&theme=dracula&column=-1&row=2&margin-w=12&margin-h=12&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
