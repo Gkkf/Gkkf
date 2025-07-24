@@ -3,9 +3,6 @@
 ###
 
 <p align="center">I am a full-stack developer (React Next.js and ASP.NET) from Poland. I am passionate about creating high-performance web, desktop and mobile applications.</p>
-- 🔭 **Current Role**: Owner of [OXEMO](https://oxemo.pl/)
-- 🌐 **Website**: [oxemo.pl](https://oxemo.pl/)
-- 💼 **LinkedIn**: [Grzegorz Kądziołka](https://www.linkedin.com/in/grzegorz-kądziołka-18508430a)
 
 ###
 
